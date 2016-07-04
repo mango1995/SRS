@@ -41,7 +41,7 @@ public class addCourse extends HttpServlet {
 		String prerequisites=request.getParameter("prerequisites");
 		Course course=new Course(courseNo,courseName,Double.parseDouble(credits));
 		cd.addCourse(course);
-		if(prerequisites!="0"){
+		if(!prerequisites.equals("0")){
 			String preNo=cd.searchCourseNo(prerequisites);
 			Course pre=cd.searchCourse(preNo);
 			cd.addCourseprerequisites(pre,course);
