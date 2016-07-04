@@ -24,3 +24,22 @@ SRS
 
 ![image](https://github.com/mango1995/SRS/blob/master/pic/19.png)
 
+登录截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/1.png)
+
+选课截图：
+
+选课失败，已选过该课程
+![image](https://github.com/mango1995/SRS/blob/master/pic/2.png)
+
+选课失败，人数已满
+![image](https://github.com/mango1995/SRS/blob/master/pic/3.png)
+
+选课成功！
+![image](https://github.com/mango1995/SRS/blob/master/pic/4.png)
+
+选课失败，先修课程调价不满足
+![image](https://github.com/mango1995/SRS/blob/master/pic/5.png)
+
+
