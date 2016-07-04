@@ -15,3 +15,12 @@ SRS
 增加201501学期排课时序图：
 
 ![image](https://github.com/mango1995/SRS/blob/master/pic/23.png)
+
+数据库结构截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/21.png)
+
+测试截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/19.png)
+
