@@ -31,15 +31,39 @@ SRS
 选课截图：
 
 选课失败，已选过该课程
+
 ![image](https://github.com/mango1995/SRS/blob/master/pic/2.png)
 
 选课失败，人数已满
+
 ![image](https://github.com/mango1995/SRS/blob/master/pic/3.png)
 
 选课成功！
+
 ![image](https://github.com/mango1995/SRS/blob/master/pic/4.png)
 
-选课失败，先修课程调价不满足
+选课失败，先修课程条件不满足
+
 ![image](https://github.com/mango1995/SRS/blob/master/pic/5.png)
+
+课程查询截图：(按名称查询)
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/6.png)
+
+查看该学生已选课程截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/7.png)
+
+查看该学生成绩单截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/8.png)
+
+新增课程截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/9.png)
+
+新增后：
+![image](https://github.com/mango1995/SRS/blob/master/pic/9.5.png)
+
 
 
