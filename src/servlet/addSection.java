@@ -36,7 +36,7 @@ public class addSection extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		
-		response.setContentType("text/html;charset=utf-8");
+	response.setContentType("text/html;charset=utf-8");
 		request.setCharacterEncoding("utf-8");
 		CourseDao cd=DataAccess.createCourseDao();
 		int sectionNo=Integer.parseInt(request.getParameter("sectionNo"));
@@ -50,6 +50,10 @@ public class addSection extends HttpServlet {
 		Section section=new Section(sectionNo,dayOfWeek,timeOfDay,course,room,seatingCapacity);
 		SectionDao sd=DataAccess.createSectionDao();
 		sd.addSection(section);
+		ScheduleOfClasses scheduleOfclasses=new ScheduleOfClasses("201501");
+		scheduleOfclasses.addSection(section);
+		ScheduleOfClassesDao socd=DataAccess.createScheduleOfClassesDao();
+		socd.addScheduleOfClasses(scheduleOfclasses);
 		String professorname=request.getParameter("professor");
 		ProfessorDao pd=DataAccess.createProfessorDao();
 		String PSsn=pd.searchPSsn(professorname);
