@@ -1,5 +1,6 @@
 # SRS
 SRS(图片可点击后放大查看)
+
 系统分层结构图：
 
 ![image](https://github.com/mango1995/SRS/blob/master/pic/20.png)
