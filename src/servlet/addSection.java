@@ -48,6 +48,7 @@ public class addSection extends HttpServlet {
 		String room=request.getParameter("room");
 		int seatingCapacity=Integer.parseInt(request.getParameter("seatingCapacity"));
 		Section section=new Section(sectionNo,dayOfWeek,timeOfDay,course,room,seatingCapacity);
+		section.setRepresentedCourse(course);
 		SectionDao sd=DataAccess.createSectionDao();
 		sd.addSection(section);
 		ScheduleOfClasses scheduleOfclasses=new ScheduleOfClasses("201501");
