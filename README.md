@@ -65,5 +65,57 @@ SRS
 新增后：
 ![image](https://github.com/mango1995/SRS/blob/master/pic/9.5.png)
 
+更新课程截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/10.png)
+
+更新后：
+![image](https://github.com/mango1995/SRS/blob/master/pic/10.5.png)
+
+删除课程截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/11.png)
+
+删除后：
+![image](https://github.com/mango1995/SRS/blob/master/pic/11.5.png)
+
+新增排课截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/13.png)
+
+新增后：
+![image](https://github.com/mango1995/SRS/blob/master/pic/13.5.png)
+
+排课界面截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/12.png)
+
+SectionNo1:Beginning Computer T选课学生列表界面截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/14.png)
+
+CourseName:Beginning Computer T所有排课截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/15.png)
+
+新增教师截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/16.png)
+
+新增后：
+![image](https://github.com/mango1995/SRS/blob/master/pic/16.5.png)
+
+教师查询截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/18.png)
+
+教师PSsn:123 name:Jacquie Barker排课查询截图：
+
+![image](https://github.com/mango1995/SRS/blob/master/pic/17.png)
+
+
+
+
+
 
 
